@@ -1,0 +1,5 @@
+Hello world!
+
+This is a short text file for debugging Task 7.
+
+If you can read this, then it worked!
